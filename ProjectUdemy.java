@@ -13,7 +13,7 @@ public class ProjectUdemy {
     public static void main(String[] args) {
         System.out.print("Heloo World.! , ");
         
-        int num = 34;
+        int num = 33;
         String myName = "posma", newName = "Janius";
         
          System.out.println("My name is " + myName + " " + newName
